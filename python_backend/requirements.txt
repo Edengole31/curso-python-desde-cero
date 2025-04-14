@@ -1,2 +1,2 @@
 pandas
-uvicorn
+fastapi[all]
